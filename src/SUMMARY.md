@@ -57,10 +57,10 @@
     - [🇧🇷 Traits: Definindo Comportamento Compartilhado](ch10-02-traits.md) - NEED DEFAULT METHOD IMPLEMENTATIONS
     - [🇧🇷 Validating References with Lifetimes](ch10-03-lifetime-syntax.md)
 
-- [Testing](ch11-00-testing.md)
-    - [Writing tests](ch11-01-writing-tests.md)
-    - [Running tests](ch11-02-running-tests.md)
-    - [Test Organization](ch11-03-test-organization.md)
+- [🇧🇷 Escrevendo testes automatizados](ch11-00-testing.md)
+    - [🇧🇷 Como escrever testes](ch11-01-writing-tests.md)
+    - [🇧🇷 Controlando como os testes são executados](ch11-02-running-tests.md)
+    - [🇧🇷 Organização dos testes](ch11-03-test-organization.md)
 
 - [🇧🇷 Um projeto de E/S](ch12-00-an-io-project.md)
     - [🇧🇷 Aceitando Argumentos em Linha de Comando](ch12-01-accepting-command-line-arguments.md)
